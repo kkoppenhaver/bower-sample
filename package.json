@@ -1,13 +1,15 @@
 {
-	"name": "bower-sample",
-	"version": "0.0.1",
-	"description": "A sample implementation of bower",
-	"dependencies": {
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/kkoppenhaver/bower-sample"
-	},
-	"author": "Keanan Koppenhaver",
-	"license": "MIT"
+  "name": "bower-sample",
+  "version": "0.0.1",
+  "description": "A sample implementation of bower",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kkoppenhaver/bower-sample"
+  },
+  "author": "Keanan Koppenhaver",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.7.7"
+  }
 }
